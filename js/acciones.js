@@ -14,4 +14,12 @@
 	$('#B_Rex').tap(function (e) {
  	 $.mobile.navigate( "#Rex" );
 	});
+	
+	$('#pac').tap(function (e) {
+ 	 $.mobile.navigate( "#pac" );
+	});
+	
+	$('#dat').tap(function (e) {
+ 	 $.mobile.navigate( "#dat" );
+	});
 });//ready
